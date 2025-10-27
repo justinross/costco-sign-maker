@@ -13,7 +13,7 @@
     name: `Philips
 home theater system
 dvd/cd      hts3566d/37`,
-    features: [],
+    features: ['1080p Full HD', 'Dolby Digital', 'DTS Digital Surround'],
     price: 19.99,
     unitPriceLabel: 'PRICE PER EACH',
     unitPrice: '.050',
